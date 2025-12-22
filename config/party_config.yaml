@@ -1,0 +1,54 @@
+parties:
+  - code: LREM
+    name: Renaissance
+    full_name: La République En Marche (Renaissance)
+    website: https://www.renaissance-en-marche.fr
+    news_url: https://www.renaissance-en-marche.fr/actualites
+    color: "#FFEB3B"
+    political_position: center
+    description: Centrist liberal party founded by Emmanuel Macron
+
+  - code: RN
+    name: Rassemblement National
+    full_name: Rassemblement National
+    website: https://rassemblementnational.fr
+    news_url: https://rassemblementnational.fr/actualites
+    color: "#1E3A8A"
+    political_position: far-right
+    description: National-conservative and right-wing populist party
+
+  - code: LFI
+    name: La France Insoumise
+    full_name: La France Insoumise
+    website: https://lafranceinsoumise.fr
+    news_url: https://lafranceinsoumise.fr/actualites
+    color: "#EF4444"
+    political_position: far-left
+    description: Left-wing to far-left democratic socialist party
+
+  - code: PS
+    name: Parti Socialiste
+    full_name: Parti Socialiste
+    website: https://parti-socialiste.fr
+    news_url: https://parti-socialiste.fr/actualites
+    color: "#FF69B4"
+    political_position: center-left
+    description: Social-democratic and democratic socialist party
+
+  - code: EELV
+    name: EELV
+    full_name: Europe Écologie Les Verts
+    website: https://www.eelv.fr
+    news_url: https://www.eelv.fr/actualites
+    color: "#10B981"
+    political_position: center-left-green
+    description: Green and eco-socialist political party
+
+  - code: LR
+    name: Les Républicains
+    full_name: Les Républicains
+    website: https://www.republicains.fr
+    news_url: https://www.republicains.fr/actualites
+    color: "#3B82F6"
+    political_position: center-right
+    description: Conservative liberal party
